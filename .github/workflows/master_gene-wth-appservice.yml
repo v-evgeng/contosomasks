@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'gene-WTH-appservice'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_11807BF4D9974BD3829137D1C61A3FB7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9EFA8B1C278C453C801981B4E1B5D3AA }}
           package: .
